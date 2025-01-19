@@ -12,6 +12,12 @@ body{
     margin-left: 22rem;
     line-height: 2rem;
 }
+.main_header{
+    color:blanchedalmond;
+    font-size: 2.6rem;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
 .container{
   position: absolute;
   position: relative;
